@@ -1,2 +1,2 @@
 # Documentation
-This repo is for Documentaion of various projects.
+This repo is for documentation of various projects.
